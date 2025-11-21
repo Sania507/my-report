@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Short HTML Example</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is a short 10-line HTML document.</p>
+  <ul>
+    <li>Item One</li>
+    <li>Item Two</li>
+  </ul>
+</body>
+</html>
